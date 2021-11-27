@@ -5,11 +5,10 @@
 
 .links {
     float: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Merriweather Sans";
     text-align: center;
-    font-size: 24px;
+    font-size: 30px;
     margin-top: 30px;
-    
 }
 
 a {
@@ -23,10 +22,60 @@ a:hover {
 
     #myname {
         color: darkslategrey;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: larger;
+        font-family: "Merriweather Sans";
+        font-size: 25px;
         background-color: lightsteelblue;
         height: 100px;
         text-align: center;
         padding: 25px;
+    }
+    .Biopart {
+        background-color: lightsteelblue;
+        color: darkslategray;
+        font-family: "Merriweather Sans";
+        font-size: 32px;
+        padding: 10px;
+        margin-top: 100px;
+        margin-bottom: 40px;
+    }
+
+    #Bioword {
+        color: darkslategray;
+        text-align: right;
+        margin-right: 35px;
+        padding: 5px;
+        margin-top: 10px;
+    }
+
+    .Skillspart {
+        background-color: lightsteelblue;
+        color: darkslategray;
+        font-family: "Merriweather Sans";
+        font-size: 32px;
+        padding: 10px;
+        margin-top: 100px;
+        margin-bottom: 40px;
+    }
+
+    #Skillsword {
+        color: darkslategray;
+        margin-right: 35px;
+        padding: 5px;
+        margin-top: 10px;
+    }
+
+    .Contatti {
+        background-color: lightsteelblue;
+        color: darkslategray;
+        font-family: "Merriweather Sans";
+        font-size: 32px;
+        padding: 10px;
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+    #Contattiword {
+        color: darkslategray;
+        margin-right: 35px;
+        padding: 5px;
+        margin-top: 10px; 
     }
